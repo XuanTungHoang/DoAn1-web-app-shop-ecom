@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.appcompat.widget.Toolbar
+        app:title="Liên hệ"
+        android:id="@+id/Toolbar_lienhe"
+        android:background="#4CAF50"
+        app:titleTextColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@drawable/bgr_thongtin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:text="Liên hệ với chúng tôi"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TextView>
+
+        <LinearLayout
+            android:background="@drawable/boder"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:drawableLeft="@drawable/users"
+                android:gravity="center"
+                android:layout_margin="30dp"
+                android:textSize="13sp"
+                android:textColor="#150236"
+                android:text="Quản lí: Hoàng Xuân Tùng"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="@drawable/boder"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:drawableLeft="@drawable/mail"
+                android:gravity="center"
+                android:layout_margin="30dp"
+                android:textSize="13sp"
+                android:textColor="#150236"
+                android:text="Email: tunghx@gmail.com"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="@drawable/boder"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="30dp"
+                android:drawableLeft="@drawable/phonee"
+                android:gravity="center"
+                android:layout_marginBottom="30dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="76dp"
+                android:textSize="13sp"
+                android:textColor="#150236"
+                android:text="  SĐT:0359458465"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b75b2c-e9eb-4540-9520-70a42b14f474" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1UtA0Zb9kxly2aB9Yn3EAopbNWy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1.CD\wamp64\www\shop_dientu\page\home" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b75b2c-e9eb-4540-9520-70a42b14f474" name="Default" comment="" />
+      <created>1575977457086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575977457086</updated>
+      <workItem from="1575977460035" duration="2842000" />
+      <workItem from="1576165297059" duration="1034000" />
+      <workItem from="1576172259984" duration="619000" />
+      <workItem from="1576228336045" duration="610000" />
+      <workItem from="1576250473386" duration="6329000" />
+      <workItem from="1576291475348" duration="6830000" />
+      <workItem from="1576338181702" duration="706000" />
+      <workItem from="1576375802425" duration="1827000" />
+      <workItem from="1576512042616" duration="7435000" />
+      <workItem from="1576546275854" duration="9579000" />
+      <workItem from="1576584938852" duration="599000" />
+      <workItem from="1576591400304" duration="12264000" />
+      <workItem from="1576632423859" duration="9519000" />
+      <workItem from="1576660389483" duration="4937000" />
+      <workItem from="1576721801890" duration="6177000" />
+      <workItem from="1576762931975" duration="4760000" />
+      <workItem from="1576813035587" duration="32000" />
+      <workItem from="1576998116155" duration="4855000" />
+      <workItem from="1577152894542" duration="3491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="102" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576661025772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="102" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576661025772" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576813063604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576813063604" />
+    <state x="471" y="178" key="NewPhpClassDialog" timestamp="1576660821237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1576660821237" />
+    <state x="917" y="234" key="NewPhpFileDialog" timestamp="1576767135377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="917" y="234" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1576767135377" />
+  </component>
+</project>
